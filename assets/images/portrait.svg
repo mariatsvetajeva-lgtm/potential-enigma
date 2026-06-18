@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 1040" role="img" aria-labelledby="title desc">
+  <!-- Replace this placeholder SVG with a professional artist portrait. -->
+  <title id="title">Artist portrait placeholder</title>
+  <desc id="desc">Minimal dark portrait placeholder for the about page.</desc>
+  <defs>
+    <linearGradient id="portraitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18151a"/>
+      <stop offset="48%" stop-color="#0a0a0d"/>
+      <stop offset="100%" stop-color="#2c2118"/>
+    </linearGradient>
+    <radialGradient id="portraitGlow" cx="50%" cy="36%" r="45%">
+      <stop offset="0%" stop-color="#d6b46c" stop-opacity="0.52"/>
+      <stop offset="100%" stop-color="#d6b46c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="840" height="1040" fill="url(#portraitBg)"/>
+  <circle cx="420" cy="358" r="258" fill="url(#portraitGlow)"/>
+  <path d="M272 785c30-158 96-254 148-254s118 96 148 254" fill="none" stroke="#f3efe7" stroke-width="6" opacity="0.46"/>
+  <circle cx="420" cy="360" r="112" fill="none" stroke="#f3efe7" stroke-width="6" opacity="0.5"/>
+  <path d="M287 355c78-154 224-153 268 8" fill="none" stroke="#d6b46c" stroke-width="4" opacity="0.9"/>
+  <path d="M222 858h396" stroke="#8c7dff" stroke-width="3" opacity="0.5"/>
+  <text x="72" y="948" fill="#f3efe7" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">ARTIST PORTRAIT</text>
+</svg>

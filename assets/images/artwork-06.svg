@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" role="img" aria-labelledby="title desc">
+  <!-- Replace this placeholder SVG with artwork from the sixth NFT collection. -->
+  <title id="title">Quiet Engine placeholder</title>
+  <desc id="desc">Abstract machine-inspired NFT artwork placeholder.</desc>
+  <rect width="900" height="1000" fill="#08080b"/>
+  <rect x="190" y="215" width="520" height="520" rx="88" fill="#111016" stroke="#f3efe7" stroke-width="3" opacity="0.82"/>
+  <circle cx="450" cy="475" r="196" fill="none" stroke="#d6b46c" stroke-width="12" opacity="0.64"/>
+  <circle cx="450" cy="475" r="92" fill="none" stroke="#8c7dff" stroke-width="22" opacity="0.42"/>
+  <path d="M450 217v516M192 475h516M268 293l364 364M632 293 268 657" stroke="#f3efe7" stroke-width="2" opacity="0.38"/>
+  <text x="58" y="908" fill="#f3efe7" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">QUIET ENGINE</text>
+</svg>

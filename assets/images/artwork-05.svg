@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" role="img" aria-labelledby="title desc">
+  <!-- Replace this placeholder SVG with artwork from the fifth NFT collection. -->
+  <title id="title">Memory Reef placeholder</title>
+  <desc id="desc">Abstract reef-inspired NFT artwork placeholder.</desc>
+  <rect width="900" height="1000" fill="#07070a"/>
+  <path d="M154 730c80-232 196-338 350-318 127 17 205-70 250-182" fill="none" stroke="#d6b46c" stroke-width="28" opacity="0.58"/>
+  <path d="M180 766c132-122 248-154 350-96 96 54 176 22 240-82" fill="none" stroke="#8c7dff" stroke-width="12" opacity="0.7"/>
+  <g fill="#f3efe7" opacity="0.8">
+    <circle cx="275" cy="596" r="8"/>
+    <circle cx="372" cy="503" r="6"/>
+    <circle cx="505" cy="552" r="10"/>
+    <circle cx="646" cy="463" r="7"/>
+    <circle cx="706" cy="321" r="5"/>
+  </g>
+  <text x="58" y="908" fill="#f3efe7" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">MEMORY REEF</text>
+</svg>

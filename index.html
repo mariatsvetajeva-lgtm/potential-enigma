@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio website for a contemporary NFT artist.">
+  <title>Astra Vale | Contemporary NFT Artist</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" data-header>
+    <a class="brand" href="index.html" aria-label="Astra Vale home">
+      <!-- Replace artist name/initials with the final brand mark. -->
+      <span class="brand__mark">AV</span>
+      <span class="brand__text">Astra Vale</span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+      <span class="nav-toggle__line"></span>
+      <span class="nav-toggle__line"></span>
+      <span class="sr-only">Toggle navigation</span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" data-nav>
+      <a class="site-nav__link is-active" href="index.html" aria-current="page">Home</a>
+      <a class="site-nav__link" href="about.html">About</a>
+      <a class="site-nav__link" href="collections.html">NFT Collections</a>
+      <a class="site-nav__link" href="exhibitions.html">Exhibitions</a>
+      <a class="site-nav__link" href="cv.html">CV</a>
+      <a class="site-nav__link" href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero hero--home">
+      <div class="hero__content reveal">
+        <p class="eyebrow">Contemporary Digital Art / NFT Editions</p>
+        <!-- Replace this headline with the artist's final positioning statement. -->
+        <h1>Elegant systems of light, memory, and machine-made mythology.</h1>
+        <!-- Replace this introduction with approved artist copy. -->
+        <p class="hero__intro">Astra Vale creates generative digital works and cinematic NFT editions that investigate ritual, synthetic nature, and the emotional residue of networked life.</p>
+        <div class="hero__actions">
+          <a class="button button--primary" href="collections.html">View Collections</a>
+          <a class="button button--ghost" href="about.html">Read Biography</a>
+        </div>
+      </div>
+
+      <figure class="featured-artwork reveal reveal--delay">
+        <!-- Replace placeholder image with the artist's featured artwork. -->
+        <img src="assets/images/featured-artwork.svg" alt="Abstract luminous NFT artwork titled Signal Bloom">
+        <figcaption>
+          <span>Featured Artwork</span>
+          <!-- Replace title, year, and edition metadata. -->
+          <strong>Signal Bloom, 2026</strong>
+        </figcaption>
+      </figure>
+    </section>
+
+    <section class="section section--intro">
+      <div class="section__header reveal">
+        <p class="eyebrow">Gallery Note</p>
+        <h2>Digital compositions for collectors, institutions, and immersive spaces.</h2>
+      </div>
+      <div class="intro-grid">
+        <article class="intro-card reveal">
+          <span class="intro-card__number">01</span>
+          <h3>Generative editions</h3>
+          <!-- Replace with a concise description of the artist's technical process. -->
+          <p>Algorithmic systems evolve into painterly artifacts, balancing controlled code with unexpected visual drift.</p>
+        </article>
+        <article class="intro-card reveal">
+          <span class="intro-card__number">02</span>
+          <h3>Collector-first releases</h3>
+          <!-- Replace with real collector or marketplace positioning. -->
+          <p>Each collection is presented with edition notes, provenance context, and direct marketplace access.</p>
+        </article>
+        <article class="intro-card reveal">
+          <span class="intro-card__number">03</span>
+          <h3>Exhibition-ready works</h3>
+          <!-- Replace with details about installations, screens, or physical editions. -->
+          <p>Large-format moving images translate seamlessly from wallet to gallery, projection, and public installation.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span data-current-year></span> Astra Vale. All rights reserved.</p>
+    <!-- Replace social links with final artist profiles. -->
+    <a href="https://instagram.com/" target="_blank" rel="noreferrer">Instagram</a>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
