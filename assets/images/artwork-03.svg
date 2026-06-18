@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" role="img" aria-labelledby="title desc">
+  <!-- Replace this placeholder SVG with artwork from the third NFT collection. -->
+  <title id="title">Orbital Hymn placeholder</title>
+  <desc id="desc">Abstract orbital NFT artwork placeholder.</desc>
+  <rect width="900" height="1000" fill="#08080b"/>
+  <circle cx="450" cy="470" r="92" fill="#d6b46c"/>
+  <ellipse cx="450" cy="470" rx="330" ry="128" fill="none" stroke="#f3efe7" stroke-width="3" opacity="0.68" transform="rotate(-18 450 470)"/>
+  <ellipse cx="450" cy="470" rx="312" ry="184" fill="none" stroke="#8c7dff" stroke-width="9" opacity="0.32" transform="rotate(34 450 470)"/>
+  <ellipse cx="450" cy="470" rx="232" ry="394" fill="none" stroke="#b76d4f" stroke-width="4" opacity="0.62" transform="rotate(62 450 470)"/>
+  <circle cx="678" cy="310" r="20" fill="#f3efe7"/>
+  <text x="58" y="908" fill="#f3efe7" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">ORBITAL HYMN</text>
+</svg>

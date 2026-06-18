@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" role="img" aria-labelledby="title desc">
+  <!-- Replace this placeholder SVG with artwork from the first NFT collection. -->
+  <title id="title">Bloom State placeholder</title>
+  <desc id="desc">Abstract gold and violet NFT artwork placeholder.</desc>
+  <defs>
+    <radialGradient id="a1" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#fff3c7"/>
+      <stop offset="42%" stop-color="#d6b46c"/>
+      <stop offset="100%" stop-color="#08080b"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1000" fill="#08080b"/>
+  <circle cx="430" cy="415" r="330" fill="url(#a1)" opacity="0.65"/>
+  <path d="M180 728c178-300 351-396 561-456" fill="none" stroke="#8c7dff" stroke-width="12" opacity="0.42"/>
+  <path d="M202 790c170-188 310-270 500-326" fill="none" stroke="#f3efe7" stroke-width="3" opacity="0.7"/>
+  <text x="58" y="908" fill="#f3efe7" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">BLOOM STATE</text>
+</svg>
